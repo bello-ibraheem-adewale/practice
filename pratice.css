@@ -1,0 +1,21 @@
+section{
+    border: 1px s0lid orange;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 100px;
+    background-color: chartreuse;
+    position: relative;
+    margin-top: 50px;
+
+}
+.bello{
+   background-color: black; 
+}
+
+.tee{
+background-color: aqua;
+}
+.high{
+background-color: deeppink;
+}
